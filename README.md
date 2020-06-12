@@ -12,6 +12,7 @@ Check monthly budget
 Check monthly expenses
 Check balance left (budget-expenses)
 Add expenditure item
+All data added into specified Google Drive Excel sheet
 Auto create new sheet every month
 
 ==========================================
